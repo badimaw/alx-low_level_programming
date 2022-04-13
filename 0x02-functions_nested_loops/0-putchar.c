@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - prints Holberton
+ * main - prints main
  *
- * Description: prints Holberton
+ * Description: prints main
  *
  * Return: 0 (Success)
  */
