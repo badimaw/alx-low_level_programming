@@ -1,4 +1,4 @@
-#include "badimaw.h"
+#include "main.h"
 
 /**
  * main - check the code for alphabets.
