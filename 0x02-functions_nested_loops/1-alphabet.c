@@ -1,4 +1,4 @@
-#include "badimaw.h"
+#include <badimaw.h>
 
 /**
  * print_alphabet - print alphabet
