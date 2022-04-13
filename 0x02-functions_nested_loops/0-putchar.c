@@ -1,4 +1,4 @@
-#include "main.h"
+#include "mychar.h"
 
 /**
  * main - prints main
@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	char text[8] = "_putchar";
+	char text[9] = "_putchar";
 	int i = 0;
 
 	for (i = 0; i < 8; i++)
