@@ -1,4 +1,4 @@
-#include <badimaw.h>
+#include "badimaw.h"
 
 /**
  * print_alphabet - print alphabet
@@ -8,12 +8,12 @@
 
 void print_alphabet(void)
 {
-	char letter = 'a';
+	char a = 'a';
 
-	while (letter <= 'z')
+	while (a <= 'z')
 	{
 		_putchar(letter);
-		letter++;
+		a++;
 	}
 	_putchar('\n');
 }
